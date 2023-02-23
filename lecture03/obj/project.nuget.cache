@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DF1QEUKoVrTFhbFLRb9AkiqVr+cE0Pgxnsj8/tR4exu8IYYEZ3wBztag/PatTOSNgD+zIhjEGsAmpu0/Fnwaw==",
+  "success": true,
+  "projectFilePath": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture03/lecture03.fsproj",
+  "expectedPackageFiles": [
+    "/Users/Cromski/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
