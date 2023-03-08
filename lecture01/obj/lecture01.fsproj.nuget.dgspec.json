@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/lecture01.fsproj": {}
+    "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/lecture01.fsproj": {}
   },
   "projects": {
-    "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/lecture01.fsproj": {
+    "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/lecture01.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/lecture01.fsproj",
+        "projectUniqueName": "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/lecture01.fsproj",
         "projectName": "lecture01",
-        "projectPath": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/lecture01.fsproj",
-        "packagesPath": "/Users/Cromski/.nuget/packages/",
-        "outputPath": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/obj/",
+        "projectPath": "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/lecture01.fsproj",
+        "packagesPath": "/Users/jakobhenriksen/.nuget/packages/",
+        "outputPath": "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Cromski/.nuget/NuGet/NuGet.Config"
+          "/Users/jakobhenriksen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.100/FSharp/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/jesper-bengtson/index.json": {}
+          "/usr/local/share/dotnet/sdk/7.0.200/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -38,7 +37,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[7.0.0, )",
+              "version": "[7.0.200, )",
               "generatePathProperty": true
             }
           },
@@ -53,12 +52,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

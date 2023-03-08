@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HecbHtNCjUoGGnJU8667Fq8lHussmGtUqnCP4Epe0XnyEeM8bDgcBpK259Lz7B6nXZEdbaPcTNWvFS7WN2Dd4Q==",
+  "dgSpecHash": "QPoQS+OUt8dcHXm3Hvtsa/P6VQ7siLs6CaOeP8/1SDUmMywQnSgu/cpuNgbEj2kZdK2DY4eiJ7ObtwIYTQOmoQ==",
   "success": true,
-  "projectFilePath": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture01/lecture01.fsproj",
+  "projectFilePath": "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture01/lecture01.fsproj",
   "expectedPackageFiles": [
-    "/Users/Cromski/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+    "/Users/jakobhenriksen/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512",
+    "/Users/jakobhenriksen/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/jakobhenriksen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/jakobhenriksen/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }

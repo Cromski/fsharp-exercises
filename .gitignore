@@ -196,4 +196,5 @@ fabric.properties
 .history
 .ionide
 
+.idea
 # End of https://www.toptal.com/developers/gitignore/api/rider,fsharp,jetbrains,visualstudiocode

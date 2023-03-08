@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KZTmbi0U+iyLZPytCuBj85MUDHpuc+cQNCcN623BXfDk+wh23nwhM2mg51I6+/z4RP/C2UzUPDhWH2GRM8qMiA==",
+  "dgSpecHash": "0+82kpZBFPHZuPJlmCaLcZLZf6QwoWTWJ4KXzLnSyeGuN9G1Gi4TD6RswUPR3MnRUpXxPHsce7eZyosCB9xZoA==",
   "success": true,
-  "projectFilePath": "/Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture04/lecture04.fsproj",
+  "projectFilePath": "/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture04/lecture04.fsproj",
   "expectedPackageFiles": [
-    "/Users/Cromski/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+    "/Users/jakobhenriksen/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
   ],
   "logs": []
 }
