@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Assignment6_Template\Assignment6_Template.fsproj" />
+    <Compile Include="Assignment6_Template\StateMonad.fsi" />
+    <Compile Include="Assignment6_Template\Types.fs" />
+    <Compile Include="Assignment6_Template\StateMonad.fs" />
+    <Compile Include="Assignment6_Template\Eval.fs" />
+    <Compile Include="Assignment6_Template\Program.fs" />
+    <Content Include="Assignment6_Template.sln" />
+  </ItemGroup>
+
+</Project>

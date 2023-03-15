@@ -27,3 +27,32 @@
 /Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture03/obj/Debug/net7.0/lecture03.pdb
 /Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture03/obj/Debug/net7.0/lecture03.genruntimeconfig.cache
 /Users/Cromski/Documents/ITU/Softwareudvikling/6. Semester/Functional programming/fsharp2023-master/lecture03/obj/Debug/net7.0/ref/lecture03.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/lecture03
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/lecture03.deps.json
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/lecture03.runtimeconfig.json
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/lecture03.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/lecture03.pdb
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/FSharp.Core.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/cs/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/de/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/es/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/fr/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/it/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/ja/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/ko/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/pl/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/pt-BR/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/ru/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/tr/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/zh-Hans/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/bin/Debug/net7.0/zh-Hant/FSharp.Core.resources.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.fsproj.AssemblyReference.cache
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.AssemblyInfoInputs.cache
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.AssemblyInfo.fs
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.fsproj.CoreCompileInputs.cache
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.fsproj.CopyComplete
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/refint/lecture03.dll
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.pdb
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/lecture03.genruntimeconfig.cache
+/Users/jakobhenriksen/Documents/ITU/6.semester/fsharp/fsharp-exercises/lecture03/obj/Debug/net7.0/ref/lecture03.dll
