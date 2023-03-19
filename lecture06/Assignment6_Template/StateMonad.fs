@@ -55,7 +55,12 @@
             | Some v -> Success (fst v, s)
             | None -> Failure (IndexOutOfBounds pos)
             )
-    let pointValue (pos : int) : SM<int> = failwith "Not implemented"      
+    let pointValue (pos : int) : SM<int> =
+        S (fun s ->
+            match List.tryItem pos s.word with
+            | Some v -> Success (snd v, s)
+            | None -> Failure (IndexOutOfBounds pos)
+            )
 
     let lookup (x : string) : SM<int> = 
         let rec aux =
