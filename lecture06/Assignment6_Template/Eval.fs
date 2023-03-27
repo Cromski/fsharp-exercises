@@ -9,8 +9,13 @@
     let state = mkState [("x", 5); ("y", 42)] hello ["_pos_"; "_result_"]
     let emptyState = mkState [] [] []
     
-    let add a b = failwith "Not implemented"      
-    let div a b = failwith "Not implemented"      
+    let add a b = a >>= (fun x ->
+                  b >>= fun y -> ret (x + y))
+    
+    let div a b = b >>= (fun y ->
+        if y <> 0
+        then a >>=  (fun x -> ret (x / y))
+        else (fail DivisionByZero))
 
     type aExp =
         | N of int

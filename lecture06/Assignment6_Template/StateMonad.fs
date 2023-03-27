@@ -61,7 +61,6 @@
             | Some v -> Success (snd v, s)
             | None -> Failure (IndexOutOfBounds pos)
             )
-
     let lookup (x : string) : SM<int> = 
         let rec aux =
             function
@@ -76,8 +75,29 @@
               | Some v -> Success (v, s)
               | None   -> Failure (VarNotFound x))
 
-    let declare (var : string) : SM<unit> = failwith "Not implemented"   
-    let update (var : string) (value : int) : SM<unit> = failwith "Not implemented"      
+    let declare (var : string) : SM<unit> =
+        S (fun s ->
+           match s with
+           | s when Set.contains var s.reserved -> Failure (ReservedName var)
+           | s when Map.containsKey var s.vars.Head -> Failure (VarExists var)
+           | _ -> Success ((), {s with vars = s.vars.Head.Add(var,0) :: s.vars.Tail}) 
+           )
+        
+    let update (var : string) (value : int) : SM<unit> =
+        let rec aux =
+            function
+            | [] -> None
+            | x :: xs ->
+                match Map.tryFind var x with
+                | Some _ -> Some (x.Add(var,value) :: xs)
+                | None -> aux xs
+        
+        S (fun s ->
+              match aux s.vars with
+              | Some listOfMaps -> Success ((), {s with vars = listOfMaps})
+              | None -> Failure (VarNotFound var)
+              )
+            
               
 
     
